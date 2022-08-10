@@ -1,0 +1,393 @@
+2022/08/10 01:17:41 [notice] 7#7: using the "epoll" event method
+2022/08/10 01:17:41 [notice] 7#7: nginx/1.23.1
+2022/08/10 01:17:41 [notice] 7#7: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/08/10 01:17:41 [notice] 7#7: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/08/10 01:17:41 [notice] 7#7: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/08/10 01:17:41 [notice] 7#7: start worker processes
+2022/08/10 01:17:41 [notice] 7#7: start worker process 8
+2022/08/10 01:17:41 [notice] 7#7: start worker process 9
+2022/08/10 01:17:41 [notice] 7#7: start worker process 10
+2022/08/10 01:17:41 [notice] 7#7: start worker process 11
+2022/08/10 01:17:41 [notice] 7#7: start worker process 12
+2022/08/10 01:17:41 [notice] 7#7: start worker process 13
+2022/08/10 01:17:41 [notice] 7#7: start worker process 14
+2022/08/10 01:17:41 [notice] 7#7: start worker process 15
+2022/08/10 01:17:41 [notice] 7#7: start worker process 16
+2022/08/10 01:17:41 [notice] 7#7: start worker process 17
+2022/08/10 01:17:41 [notice] 7#7: start worker process 18
+2022/08/10 01:17:41 [notice] 7#7: start worker process 19
+2022/08/10 01:19:23 [notice] 27#27: signal process started
+2022/08/10 01:19:23 [notice] 7#7: signal 1 (SIGHUP) received from 27, reconfiguring
+2022/08/10 01:19:23 [notice] 7#7: reconfiguring
+2022/08/10 01:19:23 [notice] 7#7: using the "epoll" event method
+2022/08/10 01:19:23 [notice] 7#7: start worker processes
+2022/08/10 01:19:23 [notice] 7#7: start worker process 28
+2022/08/10 01:19:23 [notice] 7#7: start worker process 29
+2022/08/10 01:19:23 [notice] 7#7: start worker process 30
+2022/08/10 01:19:23 [notice] 7#7: start worker process 31
+2022/08/10 01:19:23 [notice] 7#7: start worker process 32
+2022/08/10 01:19:23 [notice] 7#7: start worker process 33
+2022/08/10 01:19:23 [notice] 7#7: start worker process 34
+2022/08/10 01:19:23 [notice] 7#7: start worker process 35
+2022/08/10 01:19:23 [notice] 7#7: start worker process 36
+2022/08/10 01:19:23 [notice] 7#7: start worker process 37
+2022/08/10 01:19:23 [notice] 7#7: start worker process 38
+2022/08/10 01:19:23 [notice] 7#7: start worker process 39
+2022/08/10 01:19:23 [notice] 8#8: gracefully shutting down
+2022/08/10 01:19:23 [notice] 9#9: gracefully shutting down
+2022/08/10 01:19:23 [notice] 10#10: gracefully shutting down
+2022/08/10 01:19:23 [notice] 11#11: gracefully shutting down
+2022/08/10 01:19:23 [notice] 12#12: gracefully shutting down
+2022/08/10 01:19:23 [notice] 13#13: gracefully shutting down
+2022/08/10 01:19:23 [notice] 14#14: gracefully shutting down
+2022/08/10 01:19:23 [notice] 15#15: gracefully shutting down
+2022/08/10 01:19:23 [notice] 16#16: gracefully shutting down
+2022/08/10 01:19:23 [notice] 17#17: gracefully shutting down
+2022/08/10 01:19:23 [notice] 18#18: gracefully shutting down
+2022/08/10 01:19:23 [notice] 19#19: gracefully shutting down
+2022/08/10 01:19:23 [notice] 8#8: exiting
+2022/08/10 01:19:23 [notice] 9#9: exiting
+2022/08/10 01:19:23 [notice] 10#10: exiting
+2022/08/10 01:19:23 [notice] 11#11: exiting
+2022/08/10 01:19:23 [notice] 12#12: exiting
+2022/08/10 01:19:23 [notice] 13#13: exiting
+2022/08/10 01:19:23 [notice] 14#14: exiting
+2022/08/10 01:19:23 [notice] 15#15: exiting
+2022/08/10 01:19:23 [notice] 16#16: exiting
+2022/08/10 01:19:23 [notice] 17#17: exiting
+2022/08/10 01:19:23 [notice] 18#18: exiting
+2022/08/10 01:19:23 [notice] 19#19: exiting
+2022/08/10 01:19:23 [notice] 8#8: exit
+2022/08/10 01:19:23 [notice] 9#9: exit
+2022/08/10 01:19:23 [notice] 10#10: exit
+2022/08/10 01:19:23 [notice] 11#11: exit
+2022/08/10 01:19:23 [notice] 12#12: exit
+2022/08/10 01:19:23 [notice] 13#13: exit
+2022/08/10 01:19:23 [notice] 14#14: exit
+2022/08/10 01:19:23 [notice] 15#15: exit
+2022/08/10 01:19:23 [notice] 16#16: exit
+2022/08/10 01:19:23 [notice] 17#17: exit
+2022/08/10 01:19:23 [notice] 18#18: exit
+2022/08/10 01:19:23 [notice] 19#19: exit
+2022/08/10 01:19:23 [notice] 7#7: signal 17 (SIGCHLD) received from 15
+2022/08/10 01:19:23 [notice] 7#7: worker process 8 exited with code 0
+2022/08/10 01:19:23 [notice] 7#7: worker process 10 exited with code 0
+2022/08/10 01:19:23 [notice] 7#7: worker process 11 exited with code 0
+2022/08/10 01:19:23 [notice] 7#7: worker process 12 exited with code 0
+2022/08/10 01:19:23 [notice] 7#7: worker process 14 exited with code 0
+2022/08/10 01:19:23 [notice] 7#7: worker process 15 exited with code 0
+2022/08/10 01:19:23 [notice] 7#7: worker process 17 exited with code 0
+2022/08/10 01:19:23 [notice] 7#7: worker process 18 exited with code 0
+2022/08/10 01:19:23 [notice] 7#7: worker process 19 exited with code 0
+2022/08/10 01:19:23 [notice] 7#7: signal 29 (SIGIO) received
+2022/08/10 01:19:23 [notice] 7#7: signal 17 (SIGCHLD) received from 18
+2022/08/10 01:19:23 [notice] 7#7: signal 17 (SIGCHLD) received from 9
+2022/08/10 01:19:23 [notice] 7#7: worker process 9 exited with code 0
+2022/08/10 01:19:23 [notice] 7#7: signal 29 (SIGIO) received
+2022/08/10 01:19:23 [notice] 7#7: signal 17 (SIGCHLD) received from 13
+2022/08/10 01:19:23 [notice] 7#7: worker process 13 exited with code 0
+2022/08/10 01:19:23 [notice] 7#7: signal 29 (SIGIO) received
+2022/08/10 01:19:23 [notice] 7#7: signal 17 (SIGCHLD) received from 16
+2022/08/10 01:19:23 [notice] 7#7: worker process 16 exited with code 0
+2022/08/10 01:19:23 [notice] 7#7: signal 29 (SIGIO) received
+2022/08/10 01:19:33 [notice] 40#40: signal process started
+2022/08/10 01:19:33 [notice] 7#7: signal 1 (SIGHUP) received from 40, reconfiguring
+2022/08/10 01:19:33 [notice] 7#7: reconfiguring
+2022/08/10 01:19:33 [notice] 7#7: using the "epoll" event method
+2022/08/10 01:19:33 [notice] 7#7: start worker processes
+2022/08/10 01:19:33 [notice] 7#7: start worker process 41
+2022/08/10 01:19:33 [notice] 7#7: start worker process 42
+2022/08/10 01:19:33 [notice] 7#7: start worker process 43
+2022/08/10 01:19:33 [notice] 7#7: start worker process 44
+2022/08/10 01:19:33 [notice] 7#7: start worker process 45
+2022/08/10 01:19:33 [notice] 7#7: start worker process 46
+2022/08/10 01:19:33 [notice] 7#7: start worker process 47
+2022/08/10 01:19:33 [notice] 7#7: start worker process 48
+2022/08/10 01:19:33 [notice] 7#7: start worker process 49
+2022/08/10 01:19:33 [notice] 7#7: start worker process 50
+2022/08/10 01:19:33 [notice] 7#7: start worker process 51
+2022/08/10 01:19:33 [notice] 7#7: start worker process 52
+2022/08/10 01:19:33 [notice] 29#29: gracefully shutting down
+2022/08/10 01:19:33 [notice] 28#28: gracefully shutting down
+2022/08/10 01:19:33 [notice] 30#30: gracefully shutting down
+2022/08/10 01:19:33 [notice] 31#31: gracefully shutting down
+2022/08/10 01:19:33 [notice] 32#32: gracefully shutting down
+2022/08/10 01:19:33 [notice] 33#33: gracefully shutting down
+2022/08/10 01:19:33 [notice] 34#34: gracefully shutting down
+2022/08/10 01:19:33 [notice] 35#35: gracefully shutting down
+2022/08/10 01:19:33 [notice] 36#36: gracefully shutting down
+2022/08/10 01:19:33 [notice] 37#37: gracefully shutting down
+2022/08/10 01:19:33 [notice] 38#38: gracefully shutting down
+2022/08/10 01:19:33 [notice] 39#39: gracefully shutting down
+2022/08/10 01:19:33 [notice] 29#29: exiting
+2022/08/10 01:19:33 [notice] 28#28: exiting
+2022/08/10 01:19:33 [notice] 30#30: exiting
+2022/08/10 01:19:33 [notice] 31#31: exiting
+2022/08/10 01:19:33 [notice] 32#32: exiting
+2022/08/10 01:19:33 [notice] 33#33: exiting
+2022/08/10 01:19:33 [notice] 34#34: exiting
+2022/08/10 01:19:33 [notice] 35#35: exiting
+2022/08/10 01:19:33 [notice] 36#36: exiting
+2022/08/10 01:19:33 [notice] 37#37: exiting
+2022/08/10 01:19:33 [notice] 38#38: exiting
+2022/08/10 01:19:33 [notice] 39#39: exiting
+2022/08/10 01:19:33 [notice] 29#29: exit
+2022/08/10 01:19:33 [notice] 28#28: exit
+2022/08/10 01:19:33 [notice] 30#30: exit
+2022/08/10 01:19:33 [notice] 31#31: exit
+2022/08/10 01:19:33 [notice] 32#32: exit
+2022/08/10 01:19:33 [notice] 33#33: exit
+2022/08/10 01:19:33 [notice] 34#34: exit
+2022/08/10 01:19:33 [notice] 35#35: exit
+2022/08/10 01:19:33 [notice] 36#36: exit
+2022/08/10 01:19:33 [notice] 37#37: exit
+2022/08/10 01:19:33 [notice] 38#38: exit
+2022/08/10 01:19:33 [notice] 39#39: exit
+2022/08/10 01:19:33 [notice] 7#7: signal 17 (SIGCHLD) received from 38
+2022/08/10 01:19:33 [notice] 7#7: worker process 29 exited with code 0
+2022/08/10 01:19:33 [notice] 7#7: worker process 35 exited with code 0
+2022/08/10 01:19:33 [notice] 7#7: worker process 38 exited with code 0
+2022/08/10 01:19:33 [notice] 7#7: signal 29 (SIGIO) received
+2022/08/10 01:19:33 [notice] 7#7: signal 17 (SIGCHLD) received from 29
+2022/08/10 01:19:33 [notice] 7#7: signal 17 (SIGCHLD) received from 30
+2022/08/10 01:19:33 [notice] 7#7: worker process 28 exited with code 0
+2022/08/10 01:19:33 [notice] 7#7: worker process 30 exited with code 0
+2022/08/10 01:19:33 [notice] 7#7: worker process 31 exited with code 0
+2022/08/10 01:19:33 [notice] 7#7: worker process 34 exited with code 0
+2022/08/10 01:19:33 [notice] 7#7: signal 29 (SIGIO) received
+2022/08/10 01:19:33 [notice] 7#7: signal 17 (SIGCHLD) received from 34
+2022/08/10 01:19:33 [notice] 7#7: signal 17 (SIGCHLD) received from 33
+2022/08/10 01:19:33 [notice] 7#7: worker process 32 exited with code 0
+2022/08/10 01:19:33 [notice] 7#7: worker process 33 exited with code 0
+2022/08/10 01:19:33 [notice] 7#7: worker process 36 exited with code 0
+2022/08/10 01:19:33 [notice] 7#7: worker process 37 exited with code 0
+2022/08/10 01:19:33 [notice] 7#7: signal 29 (SIGIO) received
+2022/08/10 01:19:33 [notice] 7#7: signal 17 (SIGCHLD) received from 32
+2022/08/10 01:19:33 [notice] 7#7: signal 17 (SIGCHLD) received from 39
+2022/08/10 01:19:33 [notice] 7#7: worker process 39 exited with code 0
+2022/08/10 01:19:33 [notice] 7#7: signal 29 (SIGIO) received
+2022/08/10 01:27:15 [notice] 70#70: signal process started
+2022/08/10 01:27:15 [notice] 7#7: signal 1 (SIGHUP) received from 70, reconfiguring
+2022/08/10 01:27:15 [notice] 7#7: reconfiguring
+2022/08/10 01:27:15 [notice] 7#7: using the "epoll" event method
+2022/08/10 01:27:15 [notice] 7#7: start worker processes
+2022/08/10 01:27:15 [notice] 7#7: start worker process 71
+2022/08/10 01:27:15 [notice] 7#7: start worker process 72
+2022/08/10 01:27:15 [notice] 7#7: start worker process 73
+2022/08/10 01:27:15 [notice] 7#7: start worker process 74
+2022/08/10 01:27:15 [notice] 7#7: start worker process 75
+2022/08/10 01:27:15 [notice] 7#7: start worker process 76
+2022/08/10 01:27:15 [notice] 7#7: start worker process 77
+2022/08/10 01:27:15 [notice] 7#7: start worker process 78
+2022/08/10 01:27:15 [notice] 7#7: start worker process 79
+2022/08/10 01:27:15 [notice] 7#7: start worker process 80
+2022/08/10 01:27:15 [notice] 7#7: start worker process 81
+2022/08/10 01:27:15 [notice] 7#7: start worker process 82
+2022/08/10 01:27:15 [notice] 41#41: gracefully shutting down
+2022/08/10 01:27:15 [notice] 42#42: gracefully shutting down
+2022/08/10 01:27:15 [notice] 43#43: gracefully shutting down
+2022/08/10 01:27:15 [notice] 44#44: gracefully shutting down
+2022/08/10 01:27:15 [notice] 45#45: gracefully shutting down
+2022/08/10 01:27:15 [notice] 46#46: gracefully shutting down
+2022/08/10 01:27:15 [notice] 47#47: gracefully shutting down
+2022/08/10 01:27:15 [notice] 49#49: gracefully shutting down
+2022/08/10 01:27:15 [notice] 50#50: gracefully shutting down
+2022/08/10 01:27:15 [notice] 48#48: gracefully shutting down
+2022/08/10 01:27:15 [notice] 51#51: gracefully shutting down
+2022/08/10 01:27:15 [notice] 52#52: gracefully shutting down
+2022/08/10 01:27:15 [notice] 41#41: exiting
+2022/08/10 01:27:15 [notice] 42#42: exiting
+2022/08/10 01:27:15 [notice] 43#43: exiting
+2022/08/10 01:27:15 [notice] 44#44: exiting
+2022/08/10 01:27:15 [notice] 45#45: exiting
+2022/08/10 01:27:15 [notice] 46#46: exiting
+2022/08/10 01:27:15 [notice] 47#47: exiting
+2022/08/10 01:27:15 [notice] 49#49: exiting
+2022/08/10 01:27:15 [notice] 50#50: exiting
+2022/08/10 01:27:15 [notice] 48#48: exiting
+2022/08/10 01:27:15 [notice] 51#51: exiting
+2022/08/10 01:27:15 [notice] 52#52: exiting
+2022/08/10 01:27:15 [notice] 41#41: exit
+2022/08/10 01:27:15 [notice] 42#42: exit
+2022/08/10 01:27:15 [notice] 43#43: exit
+2022/08/10 01:27:15 [notice] 44#44: exit
+2022/08/10 01:27:15 [notice] 45#45: exit
+2022/08/10 01:27:15 [notice] 46#46: exit
+2022/08/10 01:27:15 [notice] 47#47: exit
+2022/08/10 01:27:15 [notice] 49#49: exit
+2022/08/10 01:27:15 [notice] 50#50: exit
+2022/08/10 01:27:15 [notice] 48#48: exit
+2022/08/10 01:27:15 [notice] 51#51: exit
+2022/08/10 01:27:15 [notice] 52#52: exit
+2022/08/10 01:27:15 [notice] 7#7: signal 17 (SIGCHLD) received from 49
+2022/08/10 01:27:15 [notice] 7#7: worker process 41 exited with code 0
+2022/08/10 01:27:15 [notice] 7#7: worker process 42 exited with code 0
+2022/08/10 01:27:15 [notice] 7#7: worker process 49 exited with code 0
+2022/08/10 01:27:15 [notice] 7#7: worker process 50 exited with code 0
+2022/08/10 01:27:15 [notice] 7#7: worker process 52 exited with code 0
+2022/08/10 01:27:15 [notice] 7#7: signal 29 (SIGIO) received
+2022/08/10 01:27:15 [notice] 7#7: signal 17 (SIGCHLD) received from 42
+2022/08/10 01:27:15 [notice] 7#7: signal 17 (SIGCHLD) received from 46
+2022/08/10 01:27:15 [notice] 7#7: worker process 44 exited with code 0
+2022/08/10 01:27:15 [notice] 7#7: worker process 46 exited with code 0
+2022/08/10 01:27:15 [notice] 7#7: worker process 47 exited with code 0
+2022/08/10 01:27:15 [notice] 7#7: worker process 48 exited with code 0
+2022/08/10 01:27:15 [notice] 7#7: signal 29 (SIGIO) received
+2022/08/10 01:27:15 [notice] 7#7: signal 17 (SIGCHLD) received from 44
+2022/08/10 01:27:15 [notice] 7#7: signal 17 (SIGCHLD) received from 51
+2022/08/10 01:27:15 [notice] 7#7: worker process 45 exited with code 0
+2022/08/10 01:27:15 [notice] 7#7: worker process 51 exited with code 0
+2022/08/10 01:27:15 [notice] 7#7: signal 29 (SIGIO) received
+2022/08/10 01:27:15 [notice] 7#7: signal 17 (SIGCHLD) received from 45
+2022/08/10 01:27:15 [notice] 7#7: signal 17 (SIGCHLD) received from 43
+2022/08/10 01:27:15 [notice] 7#7: worker process 43 exited with code 0
+2022/08/10 01:27:15 [notice] 7#7: signal 29 (SIGIO) received
+2022/08/10 01:28:29 [notice] 83#83: signal process started
+2022/08/10 01:28:29 [notice] 7#7: signal 1 (SIGHUP) received from 83, reconfiguring
+2022/08/10 01:28:29 [notice] 7#7: reconfiguring
+2022/08/10 01:28:29 [notice] 7#7: using the "epoll" event method
+2022/08/10 01:28:29 [notice] 7#7: start worker processes
+2022/08/10 01:28:29 [notice] 7#7: start worker process 84
+2022/08/10 01:28:29 [notice] 7#7: start worker process 85
+2022/08/10 01:28:29 [notice] 7#7: start worker process 86
+2022/08/10 01:28:29 [notice] 7#7: start worker process 87
+2022/08/10 01:28:29 [notice] 7#7: start worker process 88
+2022/08/10 01:28:29 [notice] 7#7: start worker process 89
+2022/08/10 01:28:29 [notice] 7#7: start worker process 90
+2022/08/10 01:28:29 [notice] 7#7: start worker process 91
+2022/08/10 01:28:29 [notice] 7#7: start worker process 92
+2022/08/10 01:28:29 [notice] 7#7: start worker process 93
+2022/08/10 01:28:29 [notice] 7#7: start worker process 94
+2022/08/10 01:28:29 [notice] 7#7: start worker process 95
+2022/08/10 01:28:29 [notice] 71#71: gracefully shutting down
+2022/08/10 01:28:29 [notice] 73#73: gracefully shutting down
+2022/08/10 01:28:29 [notice] 74#74: gracefully shutting down
+2022/08/10 01:28:29 [notice] 72#72: gracefully shutting down
+2022/08/10 01:28:29 [notice] 75#75: gracefully shutting down
+2022/08/10 01:28:29 [notice] 76#76: gracefully shutting down
+2022/08/10 01:28:29 [notice] 78#78: gracefully shutting down
+2022/08/10 01:28:29 [notice] 77#77: gracefully shutting down
+2022/08/10 01:28:29 [notice] 79#79: gracefully shutting down
+2022/08/10 01:28:29 [notice] 80#80: gracefully shutting down
+2022/08/10 01:28:29 [notice] 81#81: gracefully shutting down
+2022/08/10 01:28:29 [notice] 82#82: gracefully shutting down
+2022/08/10 01:28:29 [notice] 71#71: exiting
+2022/08/10 01:28:29 [notice] 73#73: exiting
+2022/08/10 01:28:29 [notice] 74#74: exiting
+2022/08/10 01:28:29 [notice] 72#72: exiting
+2022/08/10 01:28:29 [notice] 75#75: exiting
+2022/08/10 01:28:29 [notice] 76#76: exiting
+2022/08/10 01:28:29 [notice] 78#78: exiting
+2022/08/10 01:28:29 [notice] 77#77: exiting
+2022/08/10 01:28:29 [notice] 79#79: exiting
+2022/08/10 01:28:29 [notice] 80#80: exiting
+2022/08/10 01:28:29 [notice] 81#81: exiting
+2022/08/10 01:28:29 [notice] 82#82: exiting
+2022/08/10 01:28:29 [notice] 71#71: exit
+2022/08/10 01:28:29 [notice] 73#73: exit
+2022/08/10 01:28:29 [notice] 74#74: exit
+2022/08/10 01:28:29 [notice] 72#72: exit
+2022/08/10 01:28:29 [notice] 75#75: exit
+2022/08/10 01:28:29 [notice] 76#76: exit
+2022/08/10 01:28:29 [notice] 78#78: exit
+2022/08/10 01:28:29 [notice] 77#77: exit
+2022/08/10 01:28:29 [notice] 79#79: exit
+2022/08/10 01:28:29 [notice] 80#80: exit
+2022/08/10 01:28:29 [notice] 81#81: exit
+2022/08/10 01:28:29 [notice] 82#82: exit
+2022/08/10 01:28:29 [notice] 7#7: signal 17 (SIGCHLD) received from 82
+2022/08/10 01:28:29 [notice] 7#7: worker process 73 exited with code 0
+2022/08/10 01:28:29 [notice] 7#7: worker process 76 exited with code 0
+2022/08/10 01:28:29 [notice] 7#7: worker process 82 exited with code 0
+2022/08/10 01:28:29 [notice] 7#7: signal 29 (SIGIO) received
+2022/08/10 01:28:29 [notice] 7#7: signal 17 (SIGCHLD) received from 76
+2022/08/10 01:28:29 [notice] 7#7: signal 17 (SIGCHLD) received from 81
+2022/08/10 01:28:29 [notice] 7#7: worker process 71 exited with code 0
+2022/08/10 01:28:29 [notice] 7#7: worker process 78 exited with code 0
+2022/08/10 01:28:29 [notice] 7#7: worker process 80 exited with code 0
+2022/08/10 01:28:29 [notice] 7#7: worker process 81 exited with code 0
+2022/08/10 01:28:29 [notice] 7#7: signal 29 (SIGIO) received
+2022/08/10 01:28:29 [notice] 7#7: signal 17 (SIGCHLD) received from 78
+2022/08/10 01:28:29 [notice] 7#7: signal 17 (SIGCHLD) received from 75
+2022/08/10 01:28:29 [notice] 7#7: worker process 74 exited with code 0
+2022/08/10 01:28:29 [notice] 7#7: worker process 75 exited with code 0
+2022/08/10 01:28:29 [notice] 7#7: signal 29 (SIGIO) received
+2022/08/10 01:28:29 [notice] 7#7: signal 17 (SIGCHLD) received from 77
+2022/08/10 01:28:29 [notice] 7#7: worker process 77 exited with code 0
+2022/08/10 01:28:29 [notice] 7#7: signal 29 (SIGIO) received
+2022/08/10 01:28:29 [notice] 7#7: signal 17 (SIGCHLD) received from 79
+2022/08/10 01:28:29 [notice] 7#7: worker process 79 exited with code 0
+2022/08/10 01:28:29 [notice] 7#7: signal 29 (SIGIO) received
+2022/08/10 01:28:29 [notice] 7#7: signal 17 (SIGCHLD) received from 72
+2022/08/10 01:28:29 [notice] 7#7: worker process 72 exited with code 0
+2022/08/10 01:28:29 [notice] 7#7: signal 29 (SIGIO) received
+2022/08/10 01:32:08 [notice] 96#96: signal process started
+2022/08/10 01:32:08 [notice] 7#7: signal 1 (SIGHUP) received from 96, reconfiguring
+2022/08/10 01:32:08 [notice] 7#7: reconfiguring
+2022/08/10 01:32:08 [notice] 7#7: using the "epoll" event method
+2022/08/10 01:32:08 [notice] 7#7: start worker processes
+2022/08/10 01:32:08 [notice] 7#7: start worker process 97
+2022/08/10 01:32:08 [notice] 7#7: start worker process 98
+2022/08/10 01:32:08 [notice] 7#7: start worker process 99
+2022/08/10 01:32:08 [notice] 7#7: start worker process 100
+2022/08/10 01:32:08 [notice] 7#7: start worker process 101
+2022/08/10 01:32:08 [notice] 7#7: start worker process 102
+2022/08/10 01:32:08 [notice] 7#7: start worker process 103
+2022/08/10 01:32:08 [notice] 7#7: start worker process 104
+2022/08/10 01:32:08 [notice] 7#7: start worker process 105
+2022/08/10 01:32:08 [notice] 7#7: start worker process 106
+2022/08/10 01:32:08 [notice] 7#7: start worker process 107
+2022/08/10 01:32:08 [notice] 7#7: start worker process 108
+2022/08/10 01:32:08 [notice] 84#84: gracefully shutting down
+2022/08/10 01:32:08 [notice] 85#85: gracefully shutting down
+2022/08/10 01:32:08 [notice] 86#86: gracefully shutting down
+2022/08/10 01:32:08 [notice] 87#87: gracefully shutting down
+2022/08/10 01:32:08 [notice] 88#88: gracefully shutting down
+2022/08/10 01:32:08 [notice] 89#89: gracefully shutting down
+2022/08/10 01:32:08 [notice] 90#90: gracefully shutting down
+2022/08/10 01:32:08 [notice] 92#92: gracefully shutting down
+2022/08/10 01:32:08 [notice] 91#91: gracefully shutting down
+2022/08/10 01:32:08 [notice] 94#94: gracefully shutting down
+2022/08/10 01:32:08 [notice] 93#93: gracefully shutting down
+2022/08/10 01:32:08 [notice] 95#95: gracefully shutting down
+2022/08/10 01:32:08 [notice] 84#84: exiting
+2022/08/10 01:32:08 [notice] 85#85: exiting
+2022/08/10 01:32:08 [notice] 86#86: exiting
+2022/08/10 01:32:08 [notice] 87#87: exiting
+2022/08/10 01:32:08 [notice] 88#88: exiting
+2022/08/10 01:32:08 [notice] 89#89: exiting
+2022/08/10 01:32:08 [notice] 90#90: exiting
+2022/08/10 01:32:08 [notice] 92#92: exiting
+2022/08/10 01:32:08 [notice] 91#91: exiting
+2022/08/10 01:32:08 [notice] 94#94: exiting
+2022/08/10 01:32:08 [notice] 93#93: exiting
+2022/08/10 01:32:08 [notice] 95#95: exiting
+2022/08/10 01:32:08 [notice] 84#84: exit
+2022/08/10 01:32:08 [notice] 85#85: exit
+2022/08/10 01:32:08 [notice] 86#86: exit
+2022/08/10 01:32:08 [notice] 87#87: exit
+2022/08/10 01:32:08 [notice] 88#88: exit
+2022/08/10 01:32:08 [notice] 89#89: exit
+2022/08/10 01:32:08 [notice] 90#90: exit
+2022/08/10 01:32:08 [notice] 92#92: exit
+2022/08/10 01:32:08 [notice] 91#91: exit
+2022/08/10 01:32:08 [notice] 94#94: exit
+2022/08/10 01:32:08 [notice] 93#93: exit
+2022/08/10 01:32:08 [notice] 95#95: exit
+2022/08/10 01:32:08 [notice] 7#7: signal 17 (SIGCHLD) received from 90
+2022/08/10 01:32:08 [notice] 7#7: worker process 84 exited with code 0
+2022/08/10 01:32:08 [notice] 7#7: worker process 85 exited with code 0
+2022/08/10 01:32:08 [notice] 7#7: worker process 86 exited with code 0
+2022/08/10 01:32:08 [notice] 7#7: worker process 87 exited with code 0
+2022/08/10 01:32:08 [notice] 7#7: worker process 88 exited with code 0
+2022/08/10 01:32:08 [notice] 7#7: worker process 90 exited with code 0
+2022/08/10 01:32:08 [notice] 7#7: worker process 91 exited with code 0
+2022/08/10 01:32:08 [notice] 7#7: worker process 92 exited with code 0
+2022/08/10 01:32:08 [notice] 7#7: worker process 93 exited with code 0
+2022/08/10 01:32:08 [notice] 7#7: worker process 94 exited with code 0
+2022/08/10 01:32:08 [notice] 7#7: worker process 95 exited with code 0
+2022/08/10 01:32:08 [notice] 7#7: signal 29 (SIGIO) received
+2022/08/10 01:32:08 [notice] 7#7: signal 17 (SIGCHLD) received from 91
+2022/08/10 01:32:08 [notice] 7#7: signal 17 (SIGCHLD) received from 89
+2022/08/10 01:32:08 [notice] 7#7: worker process 89 exited with code 0
+2022/08/10 01:32:08 [notice] 7#7: signal 29 (SIGIO) received

@@ -1,0 +1,4 @@
+127.0.0.1 - - [10/Aug/2022:01:22:14 +0000] "GET / HTTP/1.0" 200 9 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+Remote Addr: 127.0.0.1, Time: [10/Aug/2022:01:28:43 +0000], Request: "GET / HTTP/1.0", Status code: 200
+Remote Addr: 127.0.0.1, Time: [10/Aug/2022:01:28:52 +0000], Request: "GET / HTTP/1.0", Status code: 304
+Remote Addr: 172.21.0.1, Time: [10/Aug/2022:01:32:29 +0000], Request: "GET / HTTP/1.0", Status code: 200
